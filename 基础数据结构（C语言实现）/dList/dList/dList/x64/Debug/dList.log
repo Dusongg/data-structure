@@ -1,0 +1,4 @@
+﻿  dList.c
+D:\data-structure.c\new Data structure\dList\dList\dList.c(11,3): warning C4033: “ListCreate”必须返回值
+D:\data-structure.c\new Data structure\dList\dList\dList.c(17): warning C4715: “ListCreate”: 不是所有的控件路径都返回值
+  dList.vcxproj -> D:\data-structure.c\new Data structure\dList\dList\x64\Debug\dList.exe

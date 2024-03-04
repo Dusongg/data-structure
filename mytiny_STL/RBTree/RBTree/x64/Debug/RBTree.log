@@ -1,0 +1,6 @@
+﻿  test.cpp
+D:\stl_simulation_implementation\STL模拟实现\RBTree\RBTree\RBTree.h(85,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\stl_simulation_implementation\STL模拟实现\RBTree\RBTree\RBTree.h(81,1): message : 在编译 类 模板 成员函数“void RBTree<int,int>::Levelorder(void)”时
+D:\stl_simulation_implementation\STL模拟实现\RBTree\RBTree\test.cpp(13,14): message : 查看对正在编译的函数 模板 实例化“void RBTree<int,int>::Levelorder(void)”的引用
+D:\stl_simulation_implementation\STL模拟实现\RBTree\RBTree\test.cpp(6,19): message : 查看对正在编译的 类 模板 实例化“RBTree<int,int>”的引用
+  RBTree.vcxproj -> D:\stl_simulation_implementation\STL模拟实现\RBTree\x64\Debug\RBTree.exe

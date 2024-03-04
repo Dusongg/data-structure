@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\stl_simulation_implementation\STL模拟实现\vector\vector\string_for_test_with_move.h(92,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\stl_simulation_implementation\STL模拟实现\vector\vector\string_for_test_with_move.h(203,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\stl_simulation_implementation\STL模拟实现\vector\vector\string_for_test_with_move.h(208,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\stl_simulation_implementation\STL模拟实现\vector\vector\string_for_test_with_move.h(216,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\stl_simulation_implementation\STL模拟实现\vector\vector\string_for_test_with_move.h(219,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\stl_simulation_implementation\STL模拟实现\vector\vector\string_for_test_with_move.h(224,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\stl_simulation_implementation\STL模拟实现\vector\vector\string_for_test_with_move.h(237,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  vector.vcxproj -> D:\stl_simulation_implementation\STL模拟实现\vector\x64\Debug\vector.exe
