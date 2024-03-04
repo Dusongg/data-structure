@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# vs
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+.pdb
+/x64
+/Deubug
